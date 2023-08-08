@@ -1,0 +1,15 @@
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\bin\Debug\net7.0\Example005_Yes.exe
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\bin\Debug\net7.0\Example005_Yes.deps.json
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\bin\Debug\net7.0\Example005_Yes.runtimeconfig.json
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\bin\Debug\net7.0\Example005_Yes.dll
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\bin\Debug\net7.0\Example005_Yes.pdb
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.csproj.AssemblyReference.cache
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.AssemblyInfoInputs.cache
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.AssemblyInfo.cs
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.csproj.CoreCompileInputs.cache
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.dll
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\refint\Example005_Yes.dll
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.pdb
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\Example005_Yes.genruntimeconfig.cache
+C:\Users\gappa\OneDrive\Desktop\Example\Examples\Example005_Yes\obj\Debug\net7.0\ref\Example005_Yes.dll
