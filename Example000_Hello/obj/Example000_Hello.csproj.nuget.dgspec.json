@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Example000_Hello\\Example000_Hello.csproj": {}
+    "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example000_Hello\\Example000_Hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Example000_Hello\\Example000_Hello.csproj": {
+    "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example000_Hello\\Example000_Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Example000_Hello\\Example000_Hello.csproj",
+        "projectUniqueName": "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example000_Hello\\Example000_Hello.csproj",
         "projectName": "Example000_Hello",
-        "projectPath": "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Example000_Hello\\Example000_Hello.csproj",
+        "projectPath": "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example000_Hello\\Example000_Hello.csproj",
         "packagesPath": "C:\\Users\\gappa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Example000_Hello\\obj\\",
+        "outputPath": "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example000_Hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gappa\\AppData\\Roaming\\NuGet\\NuGet.Config",

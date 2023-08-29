@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj": {}
+    "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj": {
+    "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj",
+        "projectUniqueName": "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj",
         "projectName": "Example010_Method",
-        "projectPath": "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj",
+        "projectPath": "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\Example010_Method.csproj",
         "packagesPath": "C:\\Users\\gappa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\obj\\",
+        "outputPath": "c:\\Users\\gappa\\OneDrive\\Desktop\\Example\\Examples\\Example010_Method\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
